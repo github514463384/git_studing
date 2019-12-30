@@ -1,0 +1,2 @@
+查看git 状态
+git status

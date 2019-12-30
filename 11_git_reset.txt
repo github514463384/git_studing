@@ -1,0 +1,6 @@
+版本回滚
+首先
+git log 查看commit id
+其次
+git reset "commit id" //回滚到commit id 的版本
+

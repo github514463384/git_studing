@@ -1,0 +1,2 @@
+从暂存区撤回文件(有些版本已经没有这个命令了，改成了reset)
+git restore --staged 文件名

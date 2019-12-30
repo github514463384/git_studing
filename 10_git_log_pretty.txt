@@ -1,0 +1,3 @@
+git log命令美化
+
+git log --pretty=oneline

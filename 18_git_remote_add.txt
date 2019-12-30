@@ -1,0 +1,3 @@
+通过 git remote ad origin "git地址" 与远程建立连接
+
+git remote add origin git@github.com:github514463384/git_studing.git

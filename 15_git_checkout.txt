@@ -1,0 +1,4 @@
+将移出暂存区的文件撤销所有修改
+git checkout -- 文件名
+
+稍作修改对git checkout 测试

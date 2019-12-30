@@ -1,0 +1,4 @@
+设置全局用户配置信息
+git config --global user.email "email@qq.com"
+git config --global user.name "myName"
+

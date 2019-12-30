@@ -1,0 +1,10 @@
+ssh-keygen -t rsa -C "emial@qq.com"
+然后回车  y 
+
+然后到该目录下查看生成的密钥
+c:/Users/zzx/.ssh
+id_rsa  //私钥
+id_rsa.pub //公钥
+
+将公钥填写到github官网的 ssh配置项中
+新建github仓库 并建立连接

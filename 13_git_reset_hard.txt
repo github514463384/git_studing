@@ -1,0 +1,4 @@
+回滚版本并且查看变化
+git reset --hard "commit id"
+
+
